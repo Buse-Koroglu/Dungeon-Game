@@ -1,0 +1,4 @@
+Guard,50,5
+Big Bug,30,3
+Zombie,50,6
+Boss,100,12

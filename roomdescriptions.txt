@@ -1,0 +1,6 @@
+1: The dungeon room is the starting room of the game. It contains only one creature.
+2: It is a dark room filled with monsters and item.
+3: It is a small and bright equipment room.
+4: It is another equipment room.
+5: It is a large and challenging room containing monster and item.
+6: The most challenging room is in front of you, there is a boss!!

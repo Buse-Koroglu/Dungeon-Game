@@ -1,0 +1,3 @@
+PlayerName: Buse
+CurrentRoom: 6
+Inventory: 1 0 0 
